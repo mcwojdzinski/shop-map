@@ -1,0 +1,541 @@
+[{
+    "street": "Kolejowa 4",
+    "city": "Bełchatów",
+    "zip": "97-400",
+    "lat": 51.35304,
+    "lng": 19.373037
+}, {
+    "street": "Jana III Sobieskiego 9",
+    "city": "Biała Podlaska",
+    "zip": "21-500",
+    "lat": 52.049362,
+    "lng": 23.107815
+}, {
+    "street": "Sarni Stok 2",
+    "city": "Bielsko-Biała",
+    "zip": "43-300",
+    "lat": 49.839676,
+    "lng": 19.034779
+}, {
+    "street": "Wrocławska 20",
+    "city": "Białystok",
+    "zip": "15-644",
+    "lat": 53.123947,
+    "lng": 23.096888
+}, {
+    "street": "Wysockiego 67",
+    "city": "Białystok",
+    "zip": "15-168",
+    "lat": 53.163124,
+    "lng": 23.185574
+}, {
+    "street": "10-go Marca 1",
+    "city": "Bolesławiec",
+    "zip": "59-700",
+    "lat": 51.264736,
+    "lng": 15.551791
+}, {
+    "street": "Fordońska 141",
+    "city": "Bydgoszcz",
+    "zip": "85-739",
+    "lat": 53.12409,
+    "lng": 18.06701
+}, {
+    "street": "Jana Pawła II 115",
+    "city": "Bydgoszcz",
+    "zip": "85-140",
+    "lat": 53.10727,
+    "lng": 18.013802
+}, {
+    "street": "Skarżyńskiego 2",
+    "city": "Bydgoszcz",
+    "zip": "85-791",
+    "lat": 53.15482,
+    "lng": 18.157034
+}, {
+    "street": "Jana Nowaka Jeziorańskiego 25",
+    "city": "Bytom",
+    "zip": "41-923",
+    "lat": 50.346992,
+    "lng": 18.85065
+}, {
+    "street": "Lwowska 81",
+    "city": "Chełm",
+    "zip": "22-100",
+    "lat": 51.1238,
+    "lng": 23.4689
+}, {
+    "street": "Bayeux 1",
+    "city": "Chojnice",
+    "zip": "89-604",
+    "lat": 53.69845,
+    "lng": 17.579626
+}, {
+    "street": "Parkowa 20",
+    "city": "Chorzów",
+    "zip": "41-500",
+    "lat": 50.289146,
+    "lng": 18.96738
+}, {
+    "street": "Ks. Nosala 2",
+    "city": "Dębica",
+    "zip": "39-200",
+    "lat": 50.045895,
+    "lng": 21.411367
+}, {
+    "street": "Dąbka 152",
+    "city": "Elbląg",
+    "zip": "82-300",
+    "lat": 54.18605,
+    "lng": 19.40587
+}, {
+    "street": "Grunwaldzka 141",
+    "city": "Gdańsk",
+    "zip": "80-264",
+    "lat": 54.382305,
+    "lng": 18.599531
+}, {
+    "street": "Przywidzka 6",
+    "city": "Gdańsk",
+    "zip": "80-174",
+    "lat": 54.320065,
+    "lng": 18.551805
+}, {
+    "street": "Schuberta 102 A",
+    "city": "Gdańsk",
+    "zip": "80-172",
+    "lat": 54.35107,
+    "lng": 18.59596
+}, {
+    "street": "Niepodległości 2a",
+    "city": "Starogard Gdański",
+    "zip": "83-200",
+    "lat": 53.964733,
+    "lng": 18.525095
+}, {
+    "street": "Nowaka-Jeziorańskiego 1",
+    "city": "Gliwice",
+    "zip": "44-102",
+    "lat": 50.306828,
+    "lng": 18.643627
+}, {
+    "street": "Lipowa 1",
+    "city": "Gliwice",
+    "zip": "44-100",
+    "lat": 50.300167,
+    "lng": 18.682165
+}, {
+    "street": "Pałucka 2",
+    "city": "Gniezno",
+    "zip": "62-200",
+    "lat": 52.560307,
+    "lng": 17.612928
+}, {
+    "street": "Sobieskiego 17",
+    "city": "Gniezno",
+    "zip": "62-200",
+    "lat": 52.536926,
+    "lng": 17.606953
+}, {
+    "street": "Konarskiego 45",
+    "city": "Grudziądz",
+    "zip": "86-300",
+    "lat": 53.46864,
+    "lng": 18.7555
+}, {
+    "street": "Dąbrówki 5",
+    "city": "Zielona Góra",
+    "zip": "65-096",
+    "lat": 51.93908,
+    "lng": 15.4948635
+}, {
+    "street": "Kościuszki 5",
+    "city": "Tarnowskie Góry",
+    "zip": "42-600",
+    "lat": 50.45057,
+    "lng": 18.859362
+}, {
+    "street": "Ks. Józefa Poniatowskiego 12",
+    "city": "Głogów",
+    "zip": "67-205",
+    "lat": 51.645313,
+    "lng": 16.095695
+}, {
+    "street": "Wojska Polskiego 10",
+    "city": "Inowrocław",
+    "zip": "88-109",
+    "lat": 52.78439,
+    "lng": 18.24709
+}, {
+    "street": "Podhalańska 26",
+    "city": "Jastrzębie Zdrój",
+    "zip": "44-335",
+    "lat": 49.939457,
+    "lng": 18.594618
+}, {
+    "street": "Grunwaldzka 59",
+    "city": "Jaworzno",
+    "zip": "43-600",
+    "lat": 50.20353,
+    "lng": 19.267971
+}, {
+    "street": "Wojska Polskiego 2D",
+    "city": "Jaworzno",
+    "zip": "43-603",
+    "lat": 50.225002,
+    "lng": 19.22983
+}, {
+    "street": "Poznańska 121-131",
+    "city": "Kalisz",
+    "zip": "62-800",
+    "lat": 51.76508,
+    "lng": 18.06118
+}, {
+    "street": "Roździeńskiego 200",
+    "city": "Katowice",
+    "zip": "40-315",
+    "lat": 50.26837,
+    "lng": 19.060785
+}, {
+    "street": "Paderewskiego 8",
+    "city": "Konin",
+    "zip": "62-510",
+    "lat": 52.23884,
+    "lng": 18.261234
+}, {
+    "street": "Warszawska 61",
+    "city": "Stojadła (koło Mińsk Mazowiecki)",
+    "zip": "05-300",
+    "lat": 52.189243,
+    "lng": 21.530586
+}, {
+    "street": "Kozielska 20",
+    "city": "Kędzierzyn-Koźle",
+    "zip": "47-220",
+    "lat": 50.342197,
+    "lng": 18.193295
+}, {
+    "street": "M.Medweckiego 2",
+    "city": "Kraków",
+    "zip": "31-870",
+    "lat": 50.076973,
+    "lng": 20.015974
+}, {
+    "street": "Pawia 5",
+    "city": "Kraków",
+    "zip": "31-154",
+    "lat": 50.069008,
+    "lng": 19.946058
+}, {
+    "street": "Pokoju 44",
+    "city": "Kraków",
+    "zip": "31-564",
+    "lat": 50.06452,
+    "lng": 19.984303
+}, {
+    "street": "Witosa 7",
+    "city": "Kraków",
+    "zip": "30-612",
+    "lat": 50.01593,
+    "lng": 19.962996
+}, {
+    "street": "Zakopiańska 62",
+    "city": "Kraków",
+    "zip": "30-418",
+    "lat": 50.013924,
+    "lng": 19.931303
+}, {
+    "street": "Krakowska 187",
+    "city": "Krosno",
+    "zip": "38-400",
+    "lat": 49.70889,
+    "lng": 21.729015
+}, {
+    "street": "Oporowska 6A",
+    "city": "Kutno",
+    "zip": "99-300",
+    "lat": 52.231934,
+    "lng": 19.366606
+}, {
+    "street": "3 Maja 26",
+    "city": "Kwidzyn",
+    "zip": "82-500",
+    "lat": 53.73526,
+    "lng": 18.93131
+}, {
+    "street": "Noworudzka 2",
+    "city": "Kłodzko",
+    "zip": "57-300",
+    "lat": 50.452072,
+    "lng": 16.639683
+}, {
+    "street": "Piłsudskiego 84",
+    "city": "Legnica",
+    "zip": "59-220",
+    "lat": 51.20172,
+    "lng": 16.21466
+}, {
+    "street": "Witosa 6",
+    "city": "Lublin",
+    "zip": "20-315",
+    "lat": 51.236366,
+    "lng": 22.604181
+}, {
+    "street": "Jana Pawła II 22",
+    "city": "Tomaszów Mazowiecki",
+    "zip": "97-200",
+    "lat": 51.523483,
+    "lng": 20.003515
+}, {
+    "street": "Targowa 13",
+    "city": "Mława",
+    "zip": "06-500",
+    "lat": 53.11357,
+    "lng": 20.38716
+}, {
+    "street": "Węgierska 170",
+    "city": "Nowy Sącz",
+    "zip": "33-300",
+    "lat": 49.584175,
+    "lng": 20.672386
+}, {
+    "street": "Rabsztyńska 2",
+    "city": "Olkusz",
+    "zip": "32-300",
+    "lat": 50.281197,
+    "lng": 19.56798
+}, {
+    "street": "Krasickiego 1 b",
+    "city": "Olsztyn",
+    "zip": "10-685",
+    "lat": 53.749523,
+    "lng": 20.507225
+}, {
+    "street": "Powstańców Śląskich 1",
+    "city": "Oświęcim",
+    "zip": "32-600",
+    "lat": 50.04438,
+    "lng": 19.206419
+}, {
+    "street": "Popławska 4/20",
+    "city": "Pabianice",
+    "zip": "95-200",
+    "lat": 51.650635,
+    "lng": 19.372244
+}, {
+    "street": "Słowackiego 123",
+    "city": "Piotrków Trybunalski",
+    "zip": "97-300",
+    "lat": 51.41117,
+    "lng": 19.66725
+}, {
+    "street": "14 Lutego 26",
+    "city": "Piła",
+    "zip": "64-920",
+    "lat": 53.14511,
+    "lng": 16.744967
+}, {
+    "street": "Górecka 30",
+    "city": "Poznań",
+    "zip": "60-201",
+    "lat": 52.380733,
+    "lng": 16.895792
+}, {
+    "street": "Pleszewska 1",
+    "city": "Poznań",
+    "zip": "61-136",
+    "lat": 52.396545,
+    "lng": 16.955496
+}, {
+    "street": "Solidarności 47",
+    "city": "Poznań",
+    "zip": "61-696",
+    "lat": 52.43757,
+    "lng": 16.918303
+}, {
+    "street": "Goscińczyk 2",
+    "city": "Puławy",
+    "zip": "24-100",
+    "lat": 51.414932,
+    "lng": 21.975853
+}, {
+    "street": "Piastowska 28",
+    "city": "Radomsko",
+    "zip": "97-500",
+    "lat": 51.05876,
+    "lng": 19.457
+}, {
+    "street": "Gliwicka 45",
+    "city": "Rybnik",
+    "zip": "44-200",
+    "lat": 50.11194,
+    "lng": 18.545052
+}, {
+    "street": "Jana Pawła II 63a",
+    "city": "Sieradz",
+    "zip": "98-200",
+    "lat": 51.58331,
+    "lng": 18.71991
+}, {
+    "street": "Warszawska 119",
+    "city": "Sochaczew",
+    "zip": "96-500",
+    "lat": 52.22759,
+    "lng": 20.268745
+}, {
+    "street": "Staszica 8B",
+    "city": "Sosnowiec",
+    "zip": "41-200",
+    "lat": 50.29069,
+    "lng": 19.15229
+}, {
+    "street": "Bohaterów Warszawy 42",
+    "city": "Szczecin",
+    "zip": "70-342",
+    "lat": 53.425774,
+    "lng": 14.530384
+}, {
+    "street": "Mieszka I 73",
+    "city": "Szczecin",
+    "zip": "71-011",
+    "lat": 53.41054,
+    "lng": 14.52278
+}, {
+    "street": "Wiosenna 32",
+    "city": "Szczecin",
+    "zip": "70-807",
+    "lat": 53.38531,
+    "lng": 14.661984
+}, {
+    "street": "Braci Grimm 4",
+    "city": "Tczew",
+    "zip": "83-110",
+    "lat": 54.089836,
+    "lng": 18.775291
+}, {
+    "street": "Olsztyńska 8",
+    "city": "Toruń",
+    "zip": "87-100",
+    "lat": 53.03157,
+    "lng": 18.69159
+}, {
+    "street": "Głębocka 15",
+    "city": "Warszawa",
+    "zip": "03-287",
+    "lat": 52.30284,
+    "lng": 21.05785
+}, {
+    "street": "Jana Pawła II 82",
+    "city": "Warszawa",
+    "zip": "00-175",
+    "lat": 52.256233,
+    "lng": 20.98363
+}, {
+    "street": "Jerozolimskie 148",
+    "city": "Warszawa",
+    "zip": "02-326",
+    "lat": 52.212814,
+    "lng": 20.950457
+}, {
+    "street": "Ostrobramska 75c",
+    "city": "Warszawa",
+    "zip": "04-175",
+    "lat": 52.232456,
+    "lng": 21.104858
+}, {
+    "street": "Powstańców Śląskich 126",
+    "city": "Warszawa",
+    "zip": "01-466",
+    "lat": 52.26391,
+    "lng": 20.93021
+}, {
+    "street": "Targowa 72",
+    "city": "Warszawa",
+    "zip": "03-734",
+    "lat": 52.254997,
+    "lng": 21.036415
+}, {
+    "street": "Wołoska 12",
+    "city": "Warszawa",
+    "zip": "02-675",
+    "lat": 52.179543,
+    "lng": 21.00424
+}, {
+    "street": "Światowida 17",
+    "city": "Warszawa",
+    "zip": "03-134",
+    "lat": 52.31882,
+    "lng": 20.9675
+}, {
+    "street": "Matuszczyka 2",
+    "city": "Wodzisław Śląski",
+    "zip": "44-300",
+    "lat": 50.006237,
+    "lng": 18.448578
+}, {
+    "street": "Geodetów 2",
+    "city": "Wołomin",
+    "zip": "05-200",
+    "lat": 52.355984,
+    "lng": 21.256086
+}, {
+    "street": "Gen. Hallera 52",
+    "city": "Wrocław",
+    "zip": "53-324",
+    "lat": 51.08805,
+    "lng": 16.997824
+}, {
+    "street": "Graniczna 2A",
+    "city": "Wrocław",
+    "zip": "54-610",
+    "lat": 51.105568,
+    "lng": 16.946583
+}, {
+    "street": "Legnicka 58",
+    "city": "Wrocław",
+    "zip": "54-204",
+    "lat": 51.119316,
+    "lng": 16.989212
+}, {
+    "street": "Lwowska 56",
+    "city": "Zamość",
+    "zip": "22-400",
+    "lat": 50.70535,
+    "lng": 23.282892
+}, {
+    "street": "Dębowa 1",
+    "city": "Zawada",
+    "zip": "46-022",
+    "lat": 50.6869,
+    "lng": 17.97993
+}, {
+    "street": "Jeleniogórska 42",
+    "city": "Zgorzelec",
+    "zip": "59-900",
+    "lat": 51.15805,
+    "lng": 15.03443
+}, {
+    "street": "Bandurskiego 49",
+    "city": "Łódź",
+    "zip": "94-020",
+    "lat": 51.752712,
+    "lng": 19.419708
+}, {
+    "street": "Kolumny 6/36",
+    "city": "Łódź",
+    "zip": "93-342",
+    "lat": 51.71105,
+    "lng": 19.488844
+}, {
+    "street": "Przybyszewskiego 176/178",
+    "city": "Łódź",
+    "zip": "93-120",
+    "lat": 51.75069,
+    "lng": 19.5076
+}, {
+    "street": "Szparagowa 7",
+    "city": "Łódź",
+    "zip": "91-211",
+    "lat": 51.80454,
+    "lng": 19.37946
+}]

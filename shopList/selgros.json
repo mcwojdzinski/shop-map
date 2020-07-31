@@ -1,0 +1,115 @@
+[{
+    "street": "ul. Zamenhofa 133",
+    "city": "Poznań",
+    "zip": "61-131",
+    "lat": 52.3823276,
+    "lng": 16.9436676
+},{
+    "street": "ul. Produkcyjna 99",
+    "city":"Białystok",
+    "zip":"15-680",
+    "lat":53.1600475,
+    "lng": 23.0906898
+},{
+    "street": "ul. Chorzowska 88",
+    "city":"Bytom",
+    "zip":"41-910",
+    "lat":50.3190822,
+    "lng":18.9401507
+},{
+    "street": "ul. Wodnika 79",
+    "city":"Gdańsk",
+    "zip":"80-299",
+    "lat":54.4133776,
+    "lng":18.4803963
+},{
+    "street": "ul. Toszecka 11",
+    "city":"Gliwice",
+    "zip":"44-102",
+    "lat":50.3055364,
+    "lng":18.6695543
+},{
+    "street": "ul. Lwowska 32",
+    "city":"Katowice",
+    "zip":"40-389",
+    "lat":50.256233,
+    "lng":19.0894961
+},{
+    "street": "ul. Nowohucka 52",
+    "city":"Kraków",
+    "zip":"31-580",
+    "lat":50.0584559,
+    "lng":19.9969599
+},{
+    "street": "ul. Jana Pawła II 59",
+    "city":"Lublin",
+    "zip":"20-535",
+    "lat":51.2275751,
+    "lng":22.4762233
+},{
+    "street": "ul. 3 Maja 4",
+    "city":"Łódź",
+    "zip":"93-408",
+    "lat":51.7189565,
+    "lng":19.4370559
+},{
+    "street": "ul. Rokicińska 190",
+    "city":"Łódź",
+    "zip":"92-412",
+    "lat":51.7545073,
+    "lng":19.5794885
+},{
+    "street": "ul. Czarnieckiego 112",
+    "city":"Radom",
+    "zip":"26-617",
+    "lat":51.4214699,
+    "lng":21.1420673
+},{
+    "street": "Łukowska 111",
+    "city":"Białki",
+    "zip":"08-110",
+    "lat":52.1406737,
+    "lng":22.2867153
+},{
+    "street": "ul. Walecznych 66",
+    "city":"Szczecin",
+    "zip":"70-774",
+    "lat":53.379027,
+    "lng":14.6374763
+},{
+    "street": "ul. Przylesie 3",
+    "city":"Warszawa",
+    "zip":"03-153",
+    "lat":52.3464899,
+    "lng":20.9515453
+},{
+    "street": "ul. Puławska 58, Mysiadło",
+    "city":"Piaseczno",
+    "zip":"05-500",
+    "lat":52.1052008,
+    "lng":21.020939
+},{
+    "street": "ul. Połczyńska 103",
+    "city":"Warszawa",
+    "zip":"01-303",
+    "lat":52.216067,
+    "lng":20.8887625
+},{
+    "street": "ul. Marsa 56",
+    "city":"Warszawa",
+    "zip":"04-242",
+    "lat":52.2415411,
+    "lng":21.1342487
+},{
+    "street": "ul. Krakowska 71-105",
+    "city":"Wrocław",
+    "zip":"50-426",
+    "lat":51.0884688,
+    "lng":17.0645071
+},{
+    "street": "ul. Wrocławska 4c",
+    "city":"Długołęka k/Wrocławia",
+    "zip":"55-095",
+    "lat":51.1813821,
+    "lng":17.1953389
+}]

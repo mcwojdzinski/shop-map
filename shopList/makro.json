@@ -1,0 +1,175 @@
+[{
+    "street": "ul. Kasprzaka",
+    "city": "Łódź",
+    "zip": "91-083",
+    "lat": 51.7724945,
+    "lng": 19.4219306
+}, {
+    "street": "M.Skłodowskiej-Curie",
+    "city": "Toruń",
+    "zip": "87-100",
+    "lat": 53.0390242,
+    "lng": 18.6860484
+}, {
+    "street": "ul. Kolumbijska",
+    "city": "Warszawa - Bielany",
+    "zip": "01-991",
+    "lat": 52.3013439,
+    "lng": 20.9299924
+}, {
+    "street": "Al. Jerozolimskie",
+    "city": "Warszawa - Aleje Jerozolimskie",
+    "zip": "02-486 ",
+    "lat": 52.200539,
+    "lng": 20.9318
+}, {
+    "street": "ul. Wolności",
+    "city": "Warszawa - Ząbki",
+    "zip": "05-091",
+    "lat": 52.3032307,
+    "lng": 21.0217373
+}, {
+    "street": "Al. Jana Pawła II ",
+    "city": "Bydgoszcz",
+    "zip": "85-140",
+    "lat": 53.104073,
+    "lng": 18.012939
+}, {
+    "street": "Al. Wojska Polskiego",
+    "city": "Kalisz",
+    "zip": "62-800",
+    "lat": 51.7393,
+    "lng": 18.047258
+}, {
+    "street": "ul. Lubelska ",
+    "city": "Olsztyn",
+    "zip": "10-407",
+    "lat": 53.7845179,
+    "lng": 20.5034145
+}, {
+    "street": "Al. Solidarności ",
+    "city": "Poznań",
+    "zip": "61-696 ",
+    "lat": 52.437129,
+    "lng": 16.9145665
+}, {
+    "street": "ul. Jagiellońska ",
+    "city": "Częstochowa",
+    "zip": "42-216",
+    "lat": 50.7862187,
+    "lng": 19.11932
+}, {
+    "street": "ul. Transportowców",
+    "city": "Kielce",
+    "zip": "25-672",
+    "lat": 50.8987518,
+    "lng": 20.5954295
+}, {
+    "street": "ul. Główna",
+    "city": "Gdańsk - Przejazdowo",
+    "zip": "83-021",
+    "lat": 54.337933,
+    "lng": 18.735401
+}, {
+    "street": "ul. Partyzancka",
+    "city": "Opole",
+    "zip": "45-802",
+    "lat": 50.6945205,
+    "lng": 17.8761603
+}, {
+    "street": "ul. Tyniecka",
+    "city": "Wrocław - Bielany (Kobierzyce)",
+    "zip": "55-040",
+    "lat": 51.0687018,
+    "lng": 16.9911644
+}, {
+    "street": "ul Długosza ",
+    "city": "Sosnowiec",
+    "zip": "41-219",
+    "lat": 50.308785,
+    "lng": 19.1756796
+}, {
+    "street": "Al. Korfantego",
+    "city": "Zabrze",
+    "zip": "41-800",
+    "lat": 50.3218179,
+    "lng": 18.7645065
+}, {
+    "street": "ul. Hutnicza",
+    "city": "Gdynia",
+    "zip": "81-061",
+    "lat": 54.543835,
+    "lng": 18.483146
+}, {
+    "street": "ul. Pukowca",
+    "city": "Katowice",
+    "zip": "40-847",
+    "lat": 50.2627573,
+    "lng": 18.9787465
+}, {
+    "street": "ul. Chemiczna",
+    "city": "Lublin",
+    "zip": "20-329",
+    "lat": 51.2360579,
+    "lng": 22.5956865
+}, {
+    "street": "Al. Jana Pawła II",
+    "city": "Białystok",
+    "zip": "15-704",
+    "lat": 53.146106,
+    "lng": 23.080643
+}, {
+    "street": "ul. Jasnogórska",
+    "city": "Kraków - Jasnogórska",
+    "zip": "31-358",
+    "lat": 50.0891638,
+    "lng": 19.8904134
+}, {
+    "street": "ul. Żorska",
+    "city": "Rybnik",
+    "zip": "44-203",
+    "lat": 50.0897599,
+    "lng": 18.5680155
+}, {
+    "street": "ul. Gorzowska",
+    "city": "Zielona Góra",
+    "zip": "65-127",
+    "lat": 51.9591441,
+    "lng": 15.5301883
+}, {
+    "street": "ul. Zakopiańska ",
+    "city": "Kraków - Zakopiańska",
+    "zip": "30-418",
+    "lat": 50.0207482,
+    "lng": 19.9278109
+}, {
+    "street": "ul. Jana Kilińskiego",
+    "city": "Słupsk",
+    "zip": "76-200",
+    "lat": 54.471528,
+    "lng": 17.038832
+}, {
+    "street": "Al. gen. Władysława Andersa ",
+    "city": "Bielsko-Biała",
+    "zip": "43-300",
+    "lat": 49.837706,
+    "lng": 19.004095
+}, {
+    "street": "ul. Syrenki",
+    "city": "Koszalin",
+    "zip": "75-123",
+    "lat": 54.1831949,
+    "lng": 16.1442704
+}, {
+    "street": "Al. Armii Krajowej ",
+    "city": "Rzeszów",
+    "zip": "35-307",
+    "lat": 50.0282807,
+    "lng": 22.0291993
+}, {
+    "street": "ul. Południowa",
+    "city": "Szczecin",
+    "zip": "71-001",
+    "lat": 53.401307,
+    "lng": 14.510886
+}]
